@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/haveachin/infrared/callback"
-	"github.com/haveachin/infrared/protocol/handshaking"
+	"github.com/JohnEridium/infrared/callback"
+	"github.com/JohnEridium/infrared/protocol/handshaking"
 	"github.com/pires/go-proxyproto"
 
 	"github.com/prometheus/client_golang/prometheus"
