@@ -14,9 +14,9 @@ import (
 	"time"
 
 	"github.com/fsnotify/fsnotify"
-	"github.com/haveachin/infrared/process"
-	"github.com/haveachin/infrared/protocol"
-	"github.com/haveachin/infrared/protocol/status"
+	"github.com/JohnEridium/infrared/process"
+	"github.com/JohnEridium/infrared/protocol"
+	"github.com/JohnEridium/infrared/protocol/status"
 )
 
 // ProxyConfig is a data representation of a Proxy configuration
