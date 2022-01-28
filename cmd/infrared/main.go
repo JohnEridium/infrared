@@ -2,12 +2,12 @@ package main
 
 import (
 	"flag"
-	"github.com/haveachin/infrared/api"
+	"github.com/JohnEridium/infrared/api"
 	"log"
 	"os"
 	"strconv"
 
-	"github.com/haveachin/infrared"
+	"github.com/JohnEridium/infrared"
 )
 
 const (
