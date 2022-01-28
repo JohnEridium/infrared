@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
-	"github.com/haveachin/infrared"
+	"github.com/JohnEridium/infrared"
 	"io/ioutil"
 	"log"
 	"net/http"
