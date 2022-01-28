@@ -2,7 +2,7 @@ package handshaking
 
 import (
 	"fmt"
-	"github.com/haveachin/infrared/protocol"
+	"github.com/JohnEridium/infrared/protocol"
 	"net"
 	"strings"
 	"time"
