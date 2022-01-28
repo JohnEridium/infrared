@@ -8,9 +8,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/haveachin/infrared/protocol"
-	"github.com/haveachin/infrared/protocol/handshaking"
-	"github.com/haveachin/infrared/protocol/status"
+	"github.com/JohnEridium/infrared/protocol"
+	"github.com/JohnEridium/infrared/protocol/handshaking"
+	"github.com/JohnEridium/infrared/protocol/status"
 	"github.com/pires/go-proxyproto"
 )
 
