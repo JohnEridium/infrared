@@ -2,7 +2,7 @@ package status
 
 import (
 	"bytes"
-	"github.com/haveachin/infrared/protocol"
+	"github.com/JohnEridium/infrared/protocol"
 	"testing"
 )
 
