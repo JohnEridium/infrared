@@ -2,7 +2,7 @@ package handshaking
 
 import (
 	"bytes"
-	"github.com/haveachin/infrared/protocol"
+	"github.com/haveachin/JohnEridium/protocol"
 	"net"
 	"strconv"
 	"strings"
